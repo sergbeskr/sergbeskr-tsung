@@ -23,454 +23,454 @@
 </servers>
 
 <load>
- <arrivalphase phase="1" duration="135" unit="minute">
-	<session_setup name="ses2" probability="25"/>
-	<session_setup name="ses37" probability="15"/>
-	<session_setup name="ses26" probability="15"/>
-	<session_setup name="ses35" probability="15"/>
-	<session_setup name="ses21" probability="15"/>
-	<session_setup name="ses28" probability="15"/>
+ <arrivalphase phase="1" duration="140" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
- <arrivalphase phase="2" duration="135" unit="minute">
-	<session_setup name="ses2" probability="25"/>
-	<session_setup name="ses37" probability="15"/>
-	<session_setup name="ses26" probability="15"/>
-	<session_setup name="ses35" probability="15"/>
-	<session_setup name="ses21" probability="15"/>
-	<session_setup name="ses28" probability="15"/>
+ <arrivalphase phase="2" duration="140" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
- <arrivalphase phase="3" duration="135" unit="minute">
-	<session_setup name="ses2" probability="50"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+ <arrivalphase phase="3" duration="140" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
- <arrivalphase phase="4" duration="135" unit="minute">
-	<session_setup name="ses2" probability="50"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+ <arrivalphase phase="4" duration="140" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
- <arrivalphase phase="5" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="50"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+ <arrivalphase phase="5" duration="140" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
- <arrivalphase phase="6" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="50"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+ <arrivalphase phase="6" duration="140" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
- <arrivalphase phase="7" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="50"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+ <arrivalphase phase="7" duration="140" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
- <arrivalphase phase="8" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="50"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+ <arrivalphase phase="8" duration="140" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
- <arrivalphase phase="9" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="50"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+ <arrivalphase phase="9" duration="140" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
- <arrivalphase phase="10" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="50"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+ <arrivalphase phase="10" duration="140" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
- <arrivalphase phase="11" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="50"/>
-	<session_setup name="ses28" probability="10"/>
+ <arrivalphase phase="11" duration="140" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
- <arrivalphase phase="12" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="50"/>
-	<session_setup name="ses28" probability="10"/>
+ <arrivalphase phase="12" duration="140" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="13" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="50"/>
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="14" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="50"/>
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="15" duration="135" unit="minute">
-	<session_setup name="ses2" probability="50"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="16" duration="135" unit="minute">
-	<session_setup name="ses2" probability="50"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="17" duration="135" unit="minute">
-	<session_setup name="ses2" probability="50"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="18" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="50"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="19" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="50"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="20" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="50"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="21" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="50"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="22" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="50"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="23" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="50"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="24" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="50"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="25" duration="135" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="10"/>
 	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="50"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses3" probability="50"/>
+	<session_setup name="ses4" probability="10"/>
+	<session_setup name="ses5" probability="10"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="26" duration="135" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="10"/>
 	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="50"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses3" probability="50"/>
+	<session_setup name="ses4" probability="10"/>
+	<session_setup name="ses5" probability="10"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="27" duration="135" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="10"/>
 	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="50"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses3" probability="10"/>
+	<session_setup name="ses4" probability="50"/>
+	<session_setup name="ses5" probability="10"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="28" duration="135" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="10"/>
 	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="50"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses3" probability="10"/>
+	<session_setup name="ses4" probability="50"/>
+	<session_setup name="ses5" probability="10"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="29" duration="135" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="10"/>
 	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="50"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses3" probability="10"/>
+	<session_setup name="ses4" probability="50"/>
+	<session_setup name="ses5" probability="10"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="30" duration="135" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="10"/>
 	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="50"/>
+	<session_setup name="ses3" probability="10"/>
+	<session_setup name="ses4" probability="10"/>
+	<session_setup name="ses5" probability="50"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="31" duration="135" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="10"/>
 	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="50"/>
+	<session_setup name="ses3" probability="10"/>
+	<session_setup name="ses4" probability="10"/>
+	<session_setup name="ses5" probability="50"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="32" duration="135" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="10"/>
 	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="50"/>
+	<session_setup name="ses3" probability="10"/>
+	<session_setup name="ses4" probability="10"/>
+	<session_setup name="ses5" probability="50"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="33" duration="135" unit="minute">
-	<session_setup name="ses2" probability="0"/>
-	<session_setup name="ses37" probability="20"/>
-	<session_setup name="ses26" probability="20"/>
-	<session_setup name="ses35" probability="20"/>
-	<session_setup name="ses21" probability="20"/>
-	<session_setup name="ses28" probability="20"/>
+	<session_setup name="ses0" probability="0"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="20"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="20"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="34" duration="135" unit="minute">
-	<session_setup name="ses2" probability="0"/>
-	<session_setup name="ses37" probability="20"/>
-	<session_setup name="ses26" probability="20"/>
-	<session_setup name="ses35" probability="20"/>
-	<session_setup name="ses21" probability="20"/>
-	<session_setup name="ses28" probability="20"/>
+	<session_setup name="ses0" probability="0"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="20"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="20"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="35" duration="135" unit="minute">
-	<session_setup name="ses2" probability="0"/>
-	<session_setup name="ses37" probability="20"/>
-	<session_setup name="ses26" probability="20"/>
-	<session_setup name="ses35" probability="20"/>
-	<session_setup name="ses21" probability="20"/>
-	<session_setup name="ses28" probability="20"/>
+	<session_setup name="ses0" probability="0"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="20"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="20"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="36" duration="135" unit="minute">
-	<session_setup name="ses2" probability="0"/>
-	<session_setup name="ses37" probability="20"/>
-	<session_setup name="ses26" probability="20"/>
-	<session_setup name="ses35" probability="20"/>
-	<session_setup name="ses21" probability="20"/>
-	<session_setup name="ses28" probability="20"/>
+	<session_setup name="ses0" probability="0"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="20"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="20"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="37" duration="135" unit="minute">
-	<session_setup name="ses2" probability="0"/>
-	<session_setup name="ses37" probability="20"/>
-	<session_setup name="ses26" probability="20"/>
-	<session_setup name="ses35" probability="20"/>
-	<session_setup name="ses21" probability="20"/>
-	<session_setup name="ses28" probability="20"/>
+	<session_setup name="ses0" probability="0"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="20"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="20"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="38" duration="135" unit="minute">
-	<session_setup name="ses2" probability="0"/>
-	<session_setup name="ses37" probability="20"/>
-	<session_setup name="ses26" probability="20"/>
-	<session_setup name="ses35" probability="20"/>
-	<session_setup name="ses21" probability="20"/>
-	<session_setup name="ses28" probability="20"/>
+	<session_setup name="ses0" probability="0"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="20"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="20"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="39" duration="135" unit="minute">
-	<session_setup name="ses2" probability="25"/>
-	<session_setup name="ses37" probability="15"/>
-	<session_setup name="ses26" probability="15"/>
-	<session_setup name="ses35" probability="15"/>
-	<session_setup name="ses21" probability="15"/>
-	<session_setup name="ses28" probability="15"/>
+	<session_setup name="ses0" probability="25"/>
+	<session_setup name="ses1" probability="15"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="15"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="15"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="40" duration="135" unit="minute">
-	<session_setup name="ses2" probability="25"/>
-	<session_setup name="ses37" probability="15"/>
-	<session_setup name="ses26" probability="15"/>
-	<session_setup name="ses35" probability="15"/>
-	<session_setup name="ses21" probability="15"/>
-	<session_setup name="ses28" probability="15"/>
+	<session_setup name="ses0" probability="25"/>
+	<session_setup name="ses1" probability="15"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="15"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="15"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="41" duration="135" unit="minute">
-	<session_setup name="ses2" probability="25"/>
-	<session_setup name="ses37" probability="15"/>
-	<session_setup name="ses26" probability="15"/>
-	<session_setup name="ses35" probability="15"/>
-	<session_setup name="ses21" probability="15"/>
-	<session_setup name="ses28" probability="15"/>
+	<session_setup name="ses0" probability="25"/>
+	<session_setup name="ses1" probability="15"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="15"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="15"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="42" duration="135" unit="minute">
-	<session_setup name="ses2" probability="50"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses0" probability="50"/>
+	<session_setup name="ses1" probability="10"/>
+	<session_setup name="ses2" probability="10"/>
+	<session_setup name="ses3" probability="10"/>
+	<session_setup name="ses4" probability="10"/>
+	<session_setup name="ses5" probability="10"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="43" duration="135" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="50"/>
 	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="50"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses3" probability="10"/>
+	<session_setup name="ses4" probability="10"/>
+	<session_setup name="ses5" probability="10"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="44" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="50"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="10"/>
+	<session_setup name="ses2" probability="50"/>
+	<session_setup name="ses3" probability="10"/>
+	<session_setup name="ses4" probability="10"/>
+	<session_setup name="ses5" probability="10"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="45" duration="130" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="10"/>
 	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="50"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses3" probability="50"/>
+	<session_setup name="ses4" probability="10"/>
+	<session_setup name="ses5" probability="10"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="46" duration="135" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="10"/>
 	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="50"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses3" probability="10"/>
+	<session_setup name="ses4" probability="50"/>
+	<session_setup name="ses5" probability="10"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="47" duration="135" unit="minute">
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="10"/>
 	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="10"/>
-	<session_setup name="ses35" probability="10"/>
-	<session_setup name="ses21" probability="10"/>
-	<session_setup name="ses28" probability="50"/>
+	<session_setup name="ses3" probability="10"/>
+	<session_setup name="ses4" probability="10"/>
+	<session_setup name="ses5" probability="50"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="48" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="20"/>
-	<session_setup name="ses26" probability="20"/>
-	<session_setup name="ses35" probability="20"/>
-	<session_setup name="ses21" probability="20"/>
-	<session_setup name="ses28" probability="10"/>
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="20"/>
+	<session_setup name="ses2" probability="20"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="20"/>
+	<session_setup name="ses5" probability="10"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="49" duration="135" unit="minute">
-	<session_setup name="ses2" probability="10"/>
-	<session_setup name="ses37" probability="10"/>
-	<session_setup name="ses26" probability="20"/>
-	<session_setup name="ses35" probability="20"/>
-	<session_setup name="ses21" probability="20"/>
-	<session_setup name="ses28" probability="20"/>
+	<session_setup name="ses0" probability="10"/>
+	<session_setup name="ses1" probability="10"/>
+	<session_setup name="ses2" probability="20"/>
+	<session_setup name="ses3" probability="20"/>
+	<session_setup name="ses4" probability="20"/>
+	<session_setup name="ses5" probability="20"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
  <arrivalphase phase="50" duration="135" unit="minute">
-	<session_setup name="ses2" probability="25"/>
-	<session_setup name="ses37" probability="15"/>
-	<session_setup name="ses26" probability="15"/>
-	<session_setup name="ses35" probability="15"/>
-	<session_setup name="ses21" probability="15"/>
-	<session_setup name="ses28" probability="15"/>
+	<session_setup name="ses0" probability="25"/>
+	<session_setup name="ses1" probability="15"/>
+	<session_setup name="ses2" probability="15"/>
+	<session_setup name="ses3" probability="15"/>
+	<session_setup name="ses4" probability="15"/>
+	<session_setup name="ses5" probability="15"/>
   <users maxnumber="3000" interarrival="0.001" unit="second"></users>
  </arrivalphase>
 <!--<user session="rec20100828-02:31" start_time="0" unit="second"></user>-->
@@ -481,7 +481,7 @@
   </options>
 
 <sessions>
-<session name='ses2' probability='100' type='ts_http'>
+<session name='ses0' probability='100' type='ts_http'>
  <setdynvars sourcetype="file" fileid="userdb" delimiter=";" order="iter">
         <var name="device_num" />
  </setdynvars> 
@@ -496,7 +496,7 @@
    <!-- %%_random_request_id%% -->
  </setdynvars>
 
- <setdynvars sourcetype="value" value="2">
+ <setdynvars sourcetype="value" value="19">
        <var name="game_Id" />
 	<!-- %%_game_Id%% -->
 </setdynvars> 
@@ -573,26 +573,44 @@ contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;spin&quot;,&quot;requ
 <for from="1" to="80" incr="1" var="counter2">
 <for from="1" to="6" incr="1" var="counter1">
 <for from="1" to="2" incr="1" var="counter54321">
-<transaction name="index_request">
-<!--request spin-->
+<!--transaction name="index_request">
 <request subst="true">
 <match do="restart" max_restart="720" when="match">cmn_unkn_err</match>
- <!--<dyn_variable name="balance_after" jsonpath="queue[?messageType=bankrollupdate].value.balanceAfter"/>-->
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;spin&quot;,&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;,&quot;parameters&quot;:{&quot;playMode&quot;: &quot;Regular&quot;,&quot;instanceId&quot;: &quot;%%_instance_id_num%%&quot;,&quot;roundSpeed&quot;: &quot;Normal&quot;,&quot;betPerLine&quot;: 100,&quot;linesSelected&quot;: 1,&quot;freespin&quot;: false,&quot;isCoinsEndEventShowed&quot;: &quot;true&quot;,&quot;gameId&quot;: &quot;%%_game_Id%%&quot;}}],&quot;appType&quot;: &quot;slots_craze_ios&quot;,&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
 </request>
 <thinktime value="5"/>
-</transaction>
+</transaction-->
+
+<request subst="true">
+<dyn_variable name="minigameSkip" re="(minigame)"/>
+ <http url="%%_url_for_all_request%%" method="POST" version="1.1"
+contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;spin&quot;,&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;,&quot;parameters&quot;:{&quot;spinType&quot;: &quot;REGULAR&quot;,&quot;instanceId&quot;: &quot;%%_instance_id_num%%&quot;,&quot;betPerLine&quot;: 200,&quot;linesSelected&quot;: 30,&quot;gameId&quot;: &quot;%%_game_Id%%&quot;}}],&quot;appType&quot;: &quot;slots_craze_ios&quot;,&quot;token&quot;: &quot;%%_token_num%%&quot;}">
+ </http>
+</request>
+<thinktime value="5"/>
+
+<if var="minigameSkip" eq="minigame">
+
+<request subst="true">
+<match do="restart" max_restart="720" when="match">cmn_unkn_err</match>
+ <http url="%%_url_for_all_request%%" method="POST" version="1.1"
+contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;complete_bonus_game&quot;,&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;,&quot;parameters&quot;:{&quot;spinType&quot;: &quot;REGULAR&quot;,&quot;instanceId&quot;: &quot;%%_instance_id_num%%&quot;,&quot;betPerLine&quot;: 200,&quot;linesSelected&quot;: 30,&quot;gameId&quot;: &quot;%%_game_Id%%&quot;,&quot;bonusGameId&quot;: &quot;39&quot;}}],&quot;appType&quot;: &quot;slots_craze_ios&quot;,&quot;token&quot;: &quot;%%_token_num%%&quot;}">
+ </http>
+</request>
+<thinktime value="5"/>
+</if>
+
 
 </for>
 
-<!--request gifts-->
+<!--request gifts>
 <request subst="true">
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;gifts&quot;,&quot;parameters&quot;: {},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
-</request>
+</request-->
 
 </for>
 
@@ -600,12 +618,6 @@ contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;gifts&quot;,&quot;pa
 <request subst="true">
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;get_profile&quot;,&quot;parameters&quot;: {},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
- </http>
-</request>
-<!--request activate-->
-<request subst="true">
- <http url="%%_url_for_all_request%%" method="POST" version="1.1"
-contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;activate&quot;,&quot;parameters&quot;: {&quot;appVersion&quot;: &quot;1.2.3&quot;,&quot;deviceModel&quot;: &quot;iPhone&quot;,&quot;deviceOS&quot;: &quot;iOS&quot;,&quot;deviceUID&quot;: &quot;2bcdef4-bcef44438cdabf9b9d&quot;,&quot;deviceVersion&quot;: &quot;4&quot;,&quot;ip&quot;: &quot;104.42.15.86&quot;,&quot;locale&quot;: &quot;en_US&quot;,&quot;activateType&quot;: 2,&quot;referral&quot;: &quot;referral_id&quot;},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
 </request>
 <!--thinktime value="60"/-->
@@ -618,7 +630,7 @@ contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;activate&quot;,&quot
 
 <!--ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo-->
 
-<session name='ses37' probability='0' type='ts_http'>
+<session name='ses1' probability='0' type='ts_http'>
  <setdynvars sourcetype="file" fileid="userdb" delimiter=";" order="iter">
         <var name="device_num" />
  </setdynvars> 
@@ -633,7 +645,7 @@ contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;activate&quot;,&quot
    <!-- %%_random_request_id%% -->
  </setdynvars>
 
- <setdynvars sourcetype="value" value="24">
+ <setdynvars sourcetype="random_number" start="25" end="27">
        <var name="game_Id" />
 	<!-- %%_game_Id%% -->
 </setdynvars> 
@@ -710,26 +722,44 @@ contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;spin&quot;,&quot;requ
 <for from="1" to="80" incr="1" var="counter2">
 <for from="1" to="6" incr="1" var="counter1">
 <for from="1" to="2" incr="1" var="counter54321">
-<transaction name="index_request">
-<!--request spin-->
+<!--transaction name="index_request">
 <request subst="true">
 <match do="restart" max_restart="720" when="match">cmn_unkn_err</match>
- <!--<dyn_variable name="balance_after" jsonpath="queue[?messageType=bankrollupdate].value.balanceAfter"/>-->
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;spin&quot;,&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;,&quot;parameters&quot;:{&quot;playMode&quot;: &quot;Regular&quot;,&quot;instanceId&quot;: &quot;%%_instance_id_num%%&quot;,&quot;roundSpeed&quot;: &quot;Normal&quot;,&quot;betPerLine&quot;: 100,&quot;linesSelected&quot;: 1,&quot;freespin&quot;: false,&quot;isCoinsEndEventShowed&quot;: &quot;true&quot;,&quot;gameId&quot;: &quot;%%_game_Id%%&quot;}}],&quot;appType&quot;: &quot;slots_craze_ios&quot;,&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
 </request>
 <thinktime value="5"/>
-</transaction>
+</transaction-->
+
+<request subst="true">
+<dyn_variable name="minigameSkip" re="(minigame)"/>
+ <http url="%%_url_for_all_request%%" method="POST" version="1.1"
+contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;spin&quot;,&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;,&quot;parameters&quot;:{&quot;spinType&quot;: &quot;REGULAR&quot;,&quot;instanceId&quot;: &quot;%%_instance_id_num%%&quot;,&quot;betPerLine&quot;: 200,&quot;linesSelected&quot;: 30,&quot;gameId&quot;: &quot;%%_game_Id%%&quot;}}],&quot;appType&quot;: &quot;slots_craze_ios&quot;,&quot;token&quot;: &quot;%%_token_num%%&quot;}">
+ </http>
+</request>
+<thinktime value="5"/>
+
+<if var="minigameSkip" eq="minigame">
+
+<request subst="true">
+<match do="restart" max_restart="720" when="match">cmn_unkn_err</match>
+ <http url="%%_url_for_all_request%%" method="POST" version="1.1"
+contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;complete_bonus_game&quot;,&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;,&quot;parameters&quot;:{&quot;spinType&quot;: &quot;REGULAR&quot;,&quot;instanceId&quot;: &quot;%%_instance_id_num%%&quot;,&quot;betPerLine&quot;: 200,&quot;linesSelected&quot;: 30,&quot;gameId&quot;: &quot;%%_game_Id%%&quot;,&quot;bonusGameId&quot;: &quot;39&quot;}}],&quot;appType&quot;: &quot;slots_craze_ios&quot;,&quot;token&quot;: &quot;%%_token_num%%&quot;}">
+ </http>
+</request>
+<thinktime value="5"/>
+</if>
+
 
 </for>
 
-<!--request gifts-->
+<!--request gifts>
 <request subst="true">
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;gifts&quot;,&quot;parameters&quot;: {},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
-</request>
+</request-->
 
 </for>
 
@@ -737,12 +767,6 @@ contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;gifts&quot;,&quot;pa
 <request subst="true">
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;get_profile&quot;,&quot;parameters&quot;: {},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
- </http>
-</request>
-<!--request activate-->
-<request subst="true">
- <http url="%%_url_for_all_request%%" method="POST" version="1.1"
-contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;activate&quot;,&quot;parameters&quot;: {&quot;appVersion&quot;: &quot;1.2.3&quot;,&quot;deviceModel&quot;: &quot;iPhone&quot;,&quot;deviceOS&quot;: &quot;iOS&quot;,&quot;deviceUID&quot;: &quot;2bcdef4-bcef44438cdabf9b9d&quot;,&quot;deviceVersion&quot;: &quot;4&quot;,&quot;ip&quot;: &quot;104.42.15.86&quot;,&quot;locale&quot;: &quot;en_US&quot;,&quot;activateType&quot;: 2,&quot;referral&quot;: &quot;referral_id&quot;},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
 </request>
 <!--thinktime value="60"/-->
@@ -755,7 +779,7 @@ contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;activate&quot;,&quot
 
 <!--ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo-->
 
-<session name='ses26' probability='0' type='ts_http'>
+<session name='ses2' probability='0' type='ts_http'>
  <setdynvars sourcetype="file" fileid="userdb" delimiter=";" order="iter">
         <var name="device_num" />
  </setdynvars> 
@@ -770,7 +794,7 @@ contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;activate&quot;,&quot
    <!-- %%_random_request_id%% -->
  </setdynvars>
 
- <setdynvars sourcetype="value" value="16">
+ <setdynvars sourcetype="random_number" start="28" end="30">
        <var name="game_Id" />
 	<!-- %%_game_Id%% -->
 </setdynvars> 
@@ -847,26 +871,44 @@ contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;spin&quot;,&quot;requ
 <for from="1" to="80" incr="1" var="counter2">
 <for from="1" to="6" incr="1" var="counter1">
 <for from="1" to="2" incr="1" var="counter54321">
-<transaction name="index_request">
-<!--request spin-->
+<!--transaction name="index_request">
 <request subst="true">
 <match do="restart" max_restart="720" when="match">cmn_unkn_err</match>
- <!--<dyn_variable name="balance_after" jsonpath="queue[?messageType=bankrollupdate].value.balanceAfter"/>-->
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;spin&quot;,&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;,&quot;parameters&quot;:{&quot;playMode&quot;: &quot;Regular&quot;,&quot;instanceId&quot;: &quot;%%_instance_id_num%%&quot;,&quot;roundSpeed&quot;: &quot;Normal&quot;,&quot;betPerLine&quot;: 100,&quot;linesSelected&quot;: 1,&quot;freespin&quot;: false,&quot;isCoinsEndEventShowed&quot;: &quot;true&quot;,&quot;gameId&quot;: &quot;%%_game_Id%%&quot;}}],&quot;appType&quot;: &quot;slots_craze_ios&quot;,&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
 </request>
 <thinktime value="5"/>
-</transaction>
+</transaction-->
+
+<request subst="true">
+<dyn_variable name="minigameSkip" re="(minigame)"/>
+ <http url="%%_url_for_all_request%%" method="POST" version="1.1"
+contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;spin&quot;,&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;,&quot;parameters&quot;:{&quot;spinType&quot;: &quot;REGULAR&quot;,&quot;instanceId&quot;: &quot;%%_instance_id_num%%&quot;,&quot;betPerLine&quot;: 200,&quot;linesSelected&quot;: 30,&quot;gameId&quot;: &quot;%%_game_Id%%&quot;}}],&quot;appType&quot;: &quot;slots_craze_ios&quot;,&quot;token&quot;: &quot;%%_token_num%%&quot;}">
+ </http>
+</request>
+<thinktime value="5"/>
+
+<if var="minigameSkip" eq="minigame">
+
+<request subst="true">
+<match do="restart" max_restart="720" when="match">cmn_unkn_err</match>
+ <http url="%%_url_for_all_request%%" method="POST" version="1.1"
+contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;complete_bonus_game&quot;,&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;,&quot;parameters&quot;:{&quot;spinType&quot;: &quot;REGULAR&quot;,&quot;instanceId&quot;: &quot;%%_instance_id_num%%&quot;,&quot;betPerLine&quot;: 200,&quot;linesSelected&quot;: 30,&quot;gameId&quot;: &quot;%%_game_Id%%&quot;,&quot;bonusGameId&quot;: &quot;39&quot;}}],&quot;appType&quot;: &quot;slots_craze_ios&quot;,&quot;token&quot;: &quot;%%_token_num%%&quot;}">
+ </http>
+</request>
+<thinktime value="5"/>
+</if>
+
 
 </for>
 
-<!--request gifts-->
+<!--request gifts>
 <request subst="true">
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;gifts&quot;,&quot;parameters&quot;: {},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
-</request>
+</request-->
 
 </for>
 
@@ -874,12 +916,6 @@ contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;gifts&quot;,&quot;pa
 <request subst="true">
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;get_profile&quot;,&quot;parameters&quot;: {},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
- </http>
-</request>
-<!--request activate-->
-<request subst="true">
- <http url="%%_url_for_all_request%%" method="POST" version="1.1"
-contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;activate&quot;,&quot;parameters&quot;: {&quot;appVersion&quot;: &quot;1.2.3&quot;,&quot;deviceModel&quot;: &quot;iPhone&quot;,&quot;deviceOS&quot;: &quot;iOS&quot;,&quot;deviceUID&quot;: &quot;2bcdef4-bcef44438cdabf9b9d&quot;,&quot;deviceVersion&quot;: &quot;4&quot;,&quot;ip&quot;: &quot;104.42.15.86&quot;,&quot;locale&quot;: &quot;en_US&quot;,&quot;activateType&quot;: 2,&quot;referral&quot;: &quot;referral_id&quot;},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
 </request>
 <!--thinktime value="60"/-->
@@ -892,7 +928,7 @@ contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;activate&quot;,&quot
 
 <!--ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo-->
 
-<session name='ses35' probability='0' type='ts_http'>
+<session name='ses3' probability='0' type='ts_http'>
  <setdynvars sourcetype="file" fileid="userdb" delimiter=";" order="iter">
         <var name="device_num" />
  </setdynvars> 
@@ -907,7 +943,7 @@ contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;activate&quot;,&quot
    <!-- %%_random_request_id%% -->
  </setdynvars>
 
- <setdynvars sourcetype="value" value="20">
+ <setdynvars sourcetype="random_number" start="31" end="33">
        <var name="game_Id" />
 	<!-- %%_game_Id%% -->
 </setdynvars> 
@@ -984,26 +1020,44 @@ contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;spin&quot;,&quot;requ
 <for from="1" to="80" incr="1" var="counter2">
 <for from="1" to="6" incr="1" var="counter1">
 <for from="1" to="2" incr="1" var="counter54321">
-<transaction name="index_request">
-<!--request spin-->
+<!--transaction name="index_request">
 <request subst="true">
 <match do="restart" max_restart="720" when="match">cmn_unkn_err</match>
- <!--<dyn_variable name="balance_after" jsonpath="queue[?messageType=bankrollupdate].value.balanceAfter"/>-->
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;spin&quot;,&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;,&quot;parameters&quot;:{&quot;playMode&quot;: &quot;Regular&quot;,&quot;instanceId&quot;: &quot;%%_instance_id_num%%&quot;,&quot;roundSpeed&quot;: &quot;Normal&quot;,&quot;betPerLine&quot;: 100,&quot;linesSelected&quot;: 1,&quot;freespin&quot;: false,&quot;isCoinsEndEventShowed&quot;: &quot;true&quot;,&quot;gameId&quot;: &quot;%%_game_Id%%&quot;}}],&quot;appType&quot;: &quot;slots_craze_ios&quot;,&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
 </request>
 <thinktime value="5"/>
-</transaction>
+</transaction-->
+
+<request subst="true">
+<dyn_variable name="minigameSkip" re="(minigame)"/>
+ <http url="%%_url_for_all_request%%" method="POST" version="1.1"
+contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;spin&quot;,&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;,&quot;parameters&quot;:{&quot;spinType&quot;: &quot;REGULAR&quot;,&quot;instanceId&quot;: &quot;%%_instance_id_num%%&quot;,&quot;betPerLine&quot;: 200,&quot;linesSelected&quot;: 30,&quot;gameId&quot;: &quot;%%_game_Id%%&quot;}}],&quot;appType&quot;: &quot;slots_craze_ios&quot;,&quot;token&quot;: &quot;%%_token_num%%&quot;}">
+ </http>
+</request>
+<thinktime value="5"/>
+
+<if var="minigameSkip" eq="minigame">
+
+<request subst="true">
+<match do="restart" max_restart="720" when="match">cmn_unkn_err</match>
+ <http url="%%_url_for_all_request%%" method="POST" version="1.1"
+contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;complete_bonus_game&quot;,&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;,&quot;parameters&quot;:{&quot;spinType&quot;: &quot;REGULAR&quot;,&quot;instanceId&quot;: &quot;%%_instance_id_num%%&quot;,&quot;betPerLine&quot;: 200,&quot;linesSelected&quot;: 30,&quot;gameId&quot;: &quot;%%_game_Id%%&quot;,&quot;bonusGameId&quot;: &quot;39&quot;}}],&quot;appType&quot;: &quot;slots_craze_ios&quot;,&quot;token&quot;: &quot;%%_token_num%%&quot;}">
+ </http>
+</request>
+<thinktime value="5"/>
+</if>
+
 
 </for>
 
-<!--request gifts-->
+<!--request gifts>
 <request subst="true">
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;gifts&quot;,&quot;parameters&quot;: {},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
-</request>
+</request-->
 
 </for>
 
@@ -1011,12 +1065,6 @@ contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;gifts&quot;,&quot;pa
 <request subst="true">
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;get_profile&quot;,&quot;parameters&quot;: {},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
- </http>
-</request>
-<!--request activate-->
-<request subst="true">
- <http url="%%_url_for_all_request%%" method="POST" version="1.1"
-contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;activate&quot;,&quot;parameters&quot;: {&quot;appVersion&quot;: &quot;1.2.3&quot;,&quot;deviceModel&quot;: &quot;iPhone&quot;,&quot;deviceOS&quot;: &quot;iOS&quot;,&quot;deviceUID&quot;: &quot;2bcdef4-bcef44438cdabf9b9d&quot;,&quot;deviceVersion&quot;: &quot;4&quot;,&quot;ip&quot;: &quot;104.42.15.86&quot;,&quot;locale&quot;: &quot;en_US&quot;,&quot;activateType&quot;: 2,&quot;referral&quot;: &quot;referral_id&quot;},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
 </request>
 <!--thinktime value="60"/-->
@@ -1029,7 +1077,7 @@ contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;activate&quot;,&quot
 
 <!--ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo-->
 
-<session name='ses21' probability='0' type='ts_http'>
+<session name='ses4' probability='0' type='ts_http'>
  <setdynvars sourcetype="file" fileid="userdb" delimiter=";" order="iter">
         <var name="device_num" />
  </setdynvars> 
@@ -1044,7 +1092,7 @@ contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;activate&quot;,&quot
    <!-- %%_random_request_id%% -->
  </setdynvars>
 
- <setdynvars sourcetype="value" value="21">
+ <setdynvars sourcetype="random_number" start="34" end="37">
        <var name="game_Id" />
 	<!-- %%_game_Id%% -->
 </setdynvars> 
@@ -1121,26 +1169,44 @@ contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;spin&quot;,&quot;requ
 <for from="1" to="80" incr="1" var="counter2">
 <for from="1" to="6" incr="1" var="counter1">
 <for from="1" to="2" incr="1" var="counter54321">
-<transaction name="index_request">
-<!--request spin-->
+<!--transaction name="index_request">
 <request subst="true">
 <match do="restart" max_restart="720" when="match">cmn_unkn_err</match>
- <!--<dyn_variable name="balance_after" jsonpath="queue[?messageType=bankrollupdate].value.balanceAfter"/>-->
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;spin&quot;,&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;,&quot;parameters&quot;:{&quot;playMode&quot;: &quot;Regular&quot;,&quot;instanceId&quot;: &quot;%%_instance_id_num%%&quot;,&quot;roundSpeed&quot;: &quot;Normal&quot;,&quot;betPerLine&quot;: 100,&quot;linesSelected&quot;: 1,&quot;freespin&quot;: false,&quot;isCoinsEndEventShowed&quot;: &quot;true&quot;,&quot;gameId&quot;: &quot;%%_game_Id%%&quot;}}],&quot;appType&quot;: &quot;slots_craze_ios&quot;,&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
 </request>
 <thinktime value="5"/>
-</transaction>
+</transaction-->
+
+<request subst="true">
+<dyn_variable name="minigameSkip" re="(minigame)"/>
+ <http url="%%_url_for_all_request%%" method="POST" version="1.1"
+contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;spin&quot;,&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;,&quot;parameters&quot;:{&quot;spinType&quot;: &quot;REGULAR&quot;,&quot;instanceId&quot;: &quot;%%_instance_id_num%%&quot;,&quot;betPerLine&quot;: 200,&quot;linesSelected&quot;: 30,&quot;gameId&quot;: &quot;%%_game_Id%%&quot;}}],&quot;appType&quot;: &quot;slots_craze_ios&quot;,&quot;token&quot;: &quot;%%_token_num%%&quot;}">
+ </http>
+</request>
+<thinktime value="5"/>
+
+<if var="minigameSkip" eq="minigame">
+
+<request subst="true">
+<match do="restart" max_restart="720" when="match">cmn_unkn_err</match>
+ <http url="%%_url_for_all_request%%" method="POST" version="1.1"
+contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;complete_bonus_game&quot;,&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;,&quot;parameters&quot;:{&quot;spinType&quot;: &quot;REGULAR&quot;,&quot;instanceId&quot;: &quot;%%_instance_id_num%%&quot;,&quot;betPerLine&quot;: 200,&quot;linesSelected&quot;: 30,&quot;gameId&quot;: &quot;%%_game_Id%%&quot;,&quot;bonusGameId&quot;: &quot;39&quot;}}],&quot;appType&quot;: &quot;slots_craze_ios&quot;,&quot;token&quot;: &quot;%%_token_num%%&quot;}">
+ </http>
+</request>
+<thinktime value="5"/>
+</if>
+
 
 </for>
 
-<!--request gifts-->
+<!--request gifts>
 <request subst="true">
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;gifts&quot;,&quot;parameters&quot;: {},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
-</request>
+</request-->
 
 </for>
 
@@ -1148,12 +1214,6 @@ contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;gifts&quot;,&quot;pa
 <request subst="true">
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;get_profile&quot;,&quot;parameters&quot;: {},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
- </http>
-</request>
-<!--request activate-->
-<request subst="true">
- <http url="%%_url_for_all_request%%" method="POST" version="1.1"
-contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;activate&quot;,&quot;parameters&quot;: {&quot;appVersion&quot;: &quot;1.2.3&quot;,&quot;deviceModel&quot;: &quot;iPhone&quot;,&quot;deviceOS&quot;: &quot;iOS&quot;,&quot;deviceUID&quot;: &quot;2bcdef4-bcef44438cdabf9b9d&quot;,&quot;deviceVersion&quot;: &quot;4&quot;,&quot;ip&quot;: &quot;104.42.15.86&quot;,&quot;locale&quot;: &quot;en_US&quot;,&quot;activateType&quot;: 2,&quot;referral&quot;: &quot;referral_id&quot;},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
 </request>
 <!--thinktime value="60"/-->
@@ -1166,7 +1226,7 @@ contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;activate&quot;,&quot
 
 <!--ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo-->
 
-<session name='ses28' probability='0' type='ts_http'>
+<session name='ses5' probability='0' type='ts_http'>
  <setdynvars sourcetype="file" fileid="userdb" delimiter=";" order="iter">
         <var name="device_num" />
  </setdynvars> 
@@ -1181,7 +1241,7 @@ contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;activate&quot;,&quot
    <!-- %%_random_request_id%% -->
  </setdynvars>
 
- <setdynvars sourcetype="value" value="17">
+ <setdynvars sourcetype="random_number" start="38" end="40">
        <var name="game_Id" />
 	<!-- %%_game_Id%% -->
 </setdynvars> 
@@ -1258,26 +1318,44 @@ contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;spin&quot;,&quot;requ
 <for from="1" to="80" incr="1" var="counter2">
 <for from="1" to="6" incr="1" var="counter1">
 <for from="1" to="2" incr="1" var="counter54321">
-<transaction name="index_request">
-<!--request spin-->
+<!--transaction name="index_request">
 <request subst="true">
 <match do="restart" max_restart="720" when="match">cmn_unkn_err</match>
- <!--<dyn_variable name="balance_after" jsonpath="queue[?messageType=bankrollupdate].value.balanceAfter"/>-->
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;spin&quot;,&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;,&quot;parameters&quot;:{&quot;playMode&quot;: &quot;Regular&quot;,&quot;instanceId&quot;: &quot;%%_instance_id_num%%&quot;,&quot;roundSpeed&quot;: &quot;Normal&quot;,&quot;betPerLine&quot;: 100,&quot;linesSelected&quot;: 1,&quot;freespin&quot;: false,&quot;isCoinsEndEventShowed&quot;: &quot;true&quot;,&quot;gameId&quot;: &quot;%%_game_Id%%&quot;}}],&quot;appType&quot;: &quot;slots_craze_ios&quot;,&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
 </request>
 <thinktime value="5"/>
-</transaction>
+</transaction-->
+
+<request subst="true">
+<dyn_variable name="minigameSkip" re="(minigame)"/>
+ <http url="%%_url_for_all_request%%" method="POST" version="1.1"
+contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;spin&quot;,&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;,&quot;parameters&quot;:{&quot;spinType&quot;: &quot;REGULAR&quot;,&quot;instanceId&quot;: &quot;%%_instance_id_num%%&quot;,&quot;betPerLine&quot;: 200,&quot;linesSelected&quot;: 30,&quot;gameId&quot;: &quot;%%_game_Id%%&quot;}}],&quot;appType&quot;: &quot;slots_craze_ios&quot;,&quot;token&quot;: &quot;%%_token_num%%&quot;}">
+ </http>
+</request>
+<thinktime value="5"/>
+
+<if var="minigameSkip" eq="minigame">
+
+<request subst="true">
+<match do="restart" max_restart="720" when="match">cmn_unkn_err</match>
+ <http url="%%_url_for_all_request%%" method="POST" version="1.1"
+contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;complete_bonus_game&quot;,&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;,&quot;parameters&quot;:{&quot;spinType&quot;: &quot;REGULAR&quot;,&quot;instanceId&quot;: &quot;%%_instance_id_num%%&quot;,&quot;betPerLine&quot;: 200,&quot;linesSelected&quot;: 30,&quot;gameId&quot;: &quot;%%_game_Id%%&quot;,&quot;bonusGameId&quot;: &quot;39&quot;}}],&quot;appType&quot;: &quot;slots_craze_ios&quot;,&quot;token&quot;: &quot;%%_token_num%%&quot;}">
+ </http>
+</request>
+<thinktime value="5"/>
+</if>
+
 
 </for>
 
-<!--request gifts-->
+<!--request gifts>
 <request subst="true">
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;gifts&quot;,&quot;parameters&quot;: {},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
-</request>
+</request-->
 
 </for>
 
@@ -1285,12 +1363,6 @@ contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;gifts&quot;,&quot;pa
 <request subst="true">
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;get_profile&quot;,&quot;parameters&quot;: {},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
- </http>
-</request>
-<!--request activate-->
-<request subst="true">
- <http url="%%_url_for_all_request%%" method="POST" version="1.1"
-contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;activate&quot;,&quot;parameters&quot;: {&quot;appVersion&quot;: &quot;1.2.3&quot;,&quot;deviceModel&quot;: &quot;iPhone&quot;,&quot;deviceOS&quot;: &quot;iOS&quot;,&quot;deviceUID&quot;: &quot;2bcdef4-bcef44438cdabf9b9d&quot;,&quot;deviceVersion&quot;: &quot;4&quot;,&quot;ip&quot;: &quot;104.42.15.86&quot;,&quot;locale&quot;: &quot;en_US&quot;,&quot;activateType&quot;: 2,&quot;referral&quot;: &quot;referral_id&quot;},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
 </request>
 <!--thinktime value="60"/-->

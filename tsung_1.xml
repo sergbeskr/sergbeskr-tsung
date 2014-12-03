@@ -605,12 +605,12 @@ contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;complete_bonus_game&q
 
 </for>
 
-<!--request gifts>
+<!--request gifts-->
 <request subst="true">
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;gifts&quot;,&quot;parameters&quot;: {},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
-</request-->
+</request>
 
 </for>
 
@@ -754,12 +754,12 @@ contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;complete_bonus_game&q
 
 </for>
 
-<!--request gifts>
+<!--request gifts-->
 <request subst="true">
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;gifts&quot;,&quot;parameters&quot;: {},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
-</request-->
+</request>
 
 </for>
 
@@ -903,12 +903,12 @@ contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;complete_bonus_game&q
 
 </for>
 
-<!--request gifts>
+<!--request gifts-->
 <request subst="true">
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;gifts&quot;,&quot;parameters&quot;: {},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
-</request-->
+</request>
 
 </for>
 
@@ -1052,12 +1052,12 @@ contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;complete_bonus_game&q
 
 </for>
 
-<!--request gifts>
+<!--request gifts-->
 <request subst="true">
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;gifts&quot;,&quot;parameters&quot;: {},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
-</request-->
+</request>
 
 </for>
 
@@ -1201,12 +1201,12 @@ contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;complete_bonus_game&q
 
 </for>
 
-<!--request gifts>
+<!--request gifts-->
 <request subst="true">
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;gifts&quot;,&quot;parameters&quot;: {},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
-</request-->
+</request>
 
 </for>
 
@@ -1350,12 +1350,12 @@ contents="{&quot;actions&quot;:[{&quot;action&quot;: &quot;complete_bonus_game&q
 
 </for>
 
-<!--request gifts>
+<!--request gifts-->
 <request subst="true">
  <http url="%%_url_for_all_request%%" method="POST" version="1.1"
 contents="{&quot;actions&quot;: [{&quot;action&quot;: &quot;gifts&quot;,&quot;parameters&quot;: {},&quot;requestId&quot;: &quot;%%_random_request_id%%&quot;}],&quot;token&quot;: &quot;%%_token_num%%&quot;}">
  </http>
-</request-->
+</request>
 
 </for>
 

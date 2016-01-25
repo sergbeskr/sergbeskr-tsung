@@ -3,6 +3,7 @@
 
 <tsung loglevel="info" dumptraffic="false" version="1.0">
 <tsung loglevel="error" dumptraffic="false" version="1.0">
+<tsung loglevel="error" dumptraffic="false" version="1.0">
 
 <clients>
 <!-- client host="localhost" use_controller_vm="true"/ --> 

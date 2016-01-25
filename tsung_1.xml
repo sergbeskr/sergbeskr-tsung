@@ -25,7 +25,7 @@
 </servers>
 
 <load>
- <arrivalphase phase="1" duration="140" unit="minute">
+ <arrivalphase phase="1" duration="135" unit="minute">
 	<session_setup name="ses0" probability="10"/>
 	<session_setup name="ses1" probability="20"/>
 	<session_setup name="ses2" probability="15"/>
